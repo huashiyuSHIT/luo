@@ -1,8 +1,7 @@
 #include<bits/stdc++.h>
 #include<string>
+#include <cmath>
 using namespace std;
-
-
 string multiply(const string &num1, const string &num2) {
     int n1 = num1.size();
     int n2 = num2.size();
